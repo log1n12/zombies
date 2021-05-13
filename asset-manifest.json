@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zombies/static/css/main.b4ed9d1e.chunk.css",
+    "main.js": "/zombies/static/js/main.42906b79.chunk.js",
+    "main.js.map": "/zombies/static/js/main.42906b79.chunk.js.map",
+    "runtime-main.js": "/zombies/static/js/runtime-main.53310a3c.js",
+    "runtime-main.js.map": "/zombies/static/js/runtime-main.53310a3c.js.map",
+    "static/js/2.6aa26d79.chunk.js": "/zombies/static/js/2.6aa26d79.chunk.js",
+    "static/js/2.6aa26d79.chunk.js.map": "/zombies/static/js/2.6aa26d79.chunk.js.map",
+    "static/js/3.89837439.chunk.js": "/zombies/static/js/3.89837439.chunk.js",
+    "static/js/3.89837439.chunk.js.map": "/zombies/static/js/3.89837439.chunk.js.map",
+    "index.html": "/zombies/index.html",
+    "static/css/main.b4ed9d1e.chunk.css.map": "/zombies/static/css/main.b4ed9d1e.chunk.css.map",
+    "static/js/2.6aa26d79.chunk.js.LICENSE.txt": "/zombies/static/js/2.6aa26d79.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53310a3c.js",
+    "static/js/2.6aa26d79.chunk.js",
+    "static/css/main.b4ed9d1e.chunk.css",
+    "static/js/main.42906b79.chunk.js"
+  ]
+}
